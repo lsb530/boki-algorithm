@@ -10,6 +10,9 @@ fi
 # 경로 저장
 DIR_PATH=$1
 
+# 해당 경로에 폴더 생성
+mkdir "$DIR_PATH"
+
 # 해당 경로에 파일 생성
 touch "$DIR_PATH/Solution.cpp"
 touch "$DIR_PATH/Solution.cs"
