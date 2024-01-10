@@ -1,4 +1,4 @@
-package lv0.a와b출력하기;
+package lv0.코딩기초트레이닝.a와b출력하기;
 
 import java.util.Scanner;
 
