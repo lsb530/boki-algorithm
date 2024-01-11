@@ -22,5 +22,6 @@ touch "$DIR_PATH/Solution.js"
 touch "$DIR_PATH/Solution.kt"
 touch "$DIR_PATH/Solution.py"
 touch "$DIR_PATH/Solution.swift"
+touch "$DIR_PATH/Problem.md"
 
 echo "Files created at $DIR_PATH"
