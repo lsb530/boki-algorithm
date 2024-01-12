@@ -3,7 +3,7 @@
 # 경로가 제공되지 않았을 때 에러 메시지를 출력하고 종료
 if [ "$#" -ne 1 ]; then
     echo "Usage: ./mkf <path>"
-    echo "example: ./mkf.sh ../programmers/lv0/코딩기초트레이닝/문자열반복해서출력하기"
+    echo "example: ./mkf.sh ../programmers/lv0/코딩기초트레이닝/문자열돌리기"
     exit 1
 fi
 
