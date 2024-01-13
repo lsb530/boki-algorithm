@@ -1,4 +1,4 @@
-package lv0.코딩기초트레이닝.a와b출력하기
+package lv0.코딩기초트레이닝.출력.a와b출력하기
 
 //fun main(args: Array<String>) {
 //    readlnOrNull()?.split(' ')?.takeIf { it.size >= 2 }?.apply {

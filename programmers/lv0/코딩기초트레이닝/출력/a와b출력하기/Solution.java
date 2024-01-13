@@ -1,4 +1,4 @@
-package lv0.코딩기초트레이닝.덧셈식출력하기;
+package lv0.코딩기초트레이닝.출력.a와b출력하기;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class Solution {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-
-        System.out.printf("%d + %d = %d\n", a, b, a + b);
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
     }
 }

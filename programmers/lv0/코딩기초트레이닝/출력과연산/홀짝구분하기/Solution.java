@@ -1,4 +1,4 @@
-package lv0.코딩기초트레이닝.홀짝구분하기;
+package lv0.코딩기초트레이닝.출력과연산.홀짝구분하기;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package lv0.코딩기초트레이닝.문자열겹쳐쓰기;
+package lv0.코딩기초트레이닝.출력과연산.문자열겹쳐쓰기;
 
 class Solution {
     public String solution(String my_string, String overwrite_string, int s) {
