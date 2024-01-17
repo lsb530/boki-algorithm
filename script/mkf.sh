@@ -3,7 +3,7 @@
 # 경로가 제공되지 않았을 때 에러 메시지를 출력하고 종료
 if [ "$#" -ne 1 ]; then
     echo "Usage: ./mkf <path>"
-    echo "example: ./mkf.sh ../programmers/lv0/코딩기초트레이닝/연산과조건문/조건문자열"
+    echo "example: ./mkf.sh ../programmers/lv0/코딩기초트레이닝/연산과조건문/flag에따라다른값반환하기"
     exit 1
 fi
 
